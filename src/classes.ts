@@ -36,7 +36,7 @@ class ITDepartment extends Department {
   }
 
   describe() {
-    console.log('IT Department - ID: ' + this.id);
+    console.log('IT Department - ID : ' + this.id);
   }
 }
 
